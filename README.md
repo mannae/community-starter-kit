@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Mona is a Probot that welcomes you and helps you to orientate.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Mona supports you in your orientation.
 
 ## Getting started
 
